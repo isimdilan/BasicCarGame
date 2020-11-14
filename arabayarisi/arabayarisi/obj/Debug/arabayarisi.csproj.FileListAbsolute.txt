@@ -1,0 +1,12 @@
+c:\users\ogrbil\documents\visual studio 2015\Projects\arabayarisi\arabayarisi\bin\Debug\arabayarisi.exe.config
+c:\users\ogrbil\documents\visual studio 2015\Projects\arabayarisi\arabayarisi\bin\Debug\arabayarisi.exe
+c:\users\ogrbil\documents\visual studio 2015\Projects\arabayarisi\arabayarisi\bin\Debug\arabayarisi.pdb
+c:\users\ogrbil\documents\visual studio 2015\Projects\arabayarisi\arabayarisi\obj\Debug\arabayarisi.csprojResolveAssemblyReference.cache
+c:\users\ogrbil\documents\visual studio 2015\Projects\arabayarisi\arabayarisi\obj\Debug\arabayarisi.Form1.resources
+c:\users\ogrbil\documents\visual studio 2015\Projects\arabayarisi\arabayarisi\obj\Debug\arabayarisi.Properties.Resources.resources
+c:\users\ogrbil\documents\visual studio 2015\Projects\arabayarisi\arabayarisi\obj\Debug\arabayarisi.csproj.GenerateResource.Cache
+c:\users\ogrbil\documents\visual studio 2015\Projects\arabayarisi\arabayarisi\obj\Debug\arabayarisi.exe
+c:\users\ogrbil\documents\visual studio 2015\Projects\arabayarisi\arabayarisi\obj\Debug\arabayarisi.pdb
+F:\WEB TASARIM\arabayarisi\arabayarisi\bin\Debug\arabayarisi.exe.config
+F:\WEB TASARIM\arabayarisi\arabayarisi\obj\Debug\arabayarisi.exe
+F:\WEB TASARIM\arabayarisi\arabayarisi\obj\Debug\arabayarisi.pdb
